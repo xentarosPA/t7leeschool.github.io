@@ -94,7 +94,13 @@ title: Moves
 
 <details>
 <summary markdown="0">ws3,3,4</summary>
+- -15 on block and -4 on hit, causes Lee to sway back. 
+- Assuming the opponent knows about the followups, challenging it is very rarely to occur when the move is on hit due to the punishability of ws33 (d33) (df33)
+- Ws33 (4) hitman 3 gets beat out by ws4's, and wins against most i13 ws moves.
+- Some followups that can be enforced are: Hitman 1+2, fcdf4, hitman 4, hitman 3, and there isn't really any reason to do hitman 1 4, but you can cancel to hitman 11f to continue standing pressure after punishment.
+- One thing to worry about before enforcing your own mixups is to know your opponent's full crouch game and what they can do afterwards as a form of retaliation against you enforcing your mixup. May require a couple of checks on characters like Anna, Heihachi, Julia, or anyone with a meaty full crouch low.
 
+  
 </details>
 
 <details>
@@ -114,6 +120,11 @@ title: Moves
 
 <details>
 <summary markdown="0">D+4,4,4,4,3</summary>
+- Extremely risky move to do in neutral. Often used as a round ender.
+- D4 by itself is a safe poke, however all of the followups on hit are launch punishable. 
+- Every hit of the move is low parryable on hit/block.
+  - D4 4 4 is also massively delayable, and the delay can hit people trying to fuzzy low parry the followup hits
+- The 3 at the end will cause Lee to sway back, and will avoid punishes that don't have good reach, some hopkicks will not reach and some df2s will whiff completely.
 
 </details>
 
