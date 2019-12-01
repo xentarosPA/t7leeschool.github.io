@@ -114,6 +114,11 @@ title: Moves
 
 <details>
 <summary markdown="0">D+4,4,4,4,3</summary>
+- Extremely risky move to do in neutral. Often used as a round ender.
+- D4 by itself is a safe poke, however all of the followups on hit are launch punishable. 
+- Every hit of the move is low parryable on hit/block.
+  - D4 4 4 is also massively delayable, and the delay can hit people trying to fuzzy low parry the followup hits
+- The 3 at the end will cause Lee to sway back, and will avoid punishes that don't have good reach, some hopkicks will not reach and some df2s will whiff completely.
 
 </details>
 
